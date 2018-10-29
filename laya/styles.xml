@@ -1,0 +1,6 @@
+<res>
+   <item name="monster/clip_monster_6.png" type="Clip" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="monster/clip_monster_5.png" type="Clip" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="monster/clip_monster_4.png" type="Clip" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui/board.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>
